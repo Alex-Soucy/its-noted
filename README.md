@@ -6,6 +6,8 @@ The purpose of this project was to create an app that allows people to take and 
 
 The front end work was already completed, I was responsible for completing the back end work using Express.js and linking the two for the deployed app.
 
+Delete functionality will be added at a later date.
+
 ## Technologies used
 * HTML
 * CSS
