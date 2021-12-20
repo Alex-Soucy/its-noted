@@ -2,7 +2,7 @@
 
 ## Description
 
-This purpose of this project is to create an app that allows people to take and save notes as well as delete the notes when they would like.
+The purpose of this project was to create an app that allows people to take and save notes as well as delete the notes when they would like.
 
 The front end work was already completed, I was responsible for completing the back end work using Express.js and linking the two for the deployed app.
 
