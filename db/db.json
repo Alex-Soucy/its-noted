@@ -1,3 +1,13 @@
 [
-    
+  2,
+  {
+    "title": "new note",
+    "text": "note",
+    "id": 0
+  },
+  {
+    "title": "test2",
+    "text": "test\n",
+    "id": 1
+  }
 ]
