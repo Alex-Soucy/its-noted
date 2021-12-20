@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Alex-Soucy",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Soucy/its-noted.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alex-Soucy/its-noted/issues"
+  },
+  "homepage": "https://github.com/Alex-Soucy/its-noted#readme"
 }
